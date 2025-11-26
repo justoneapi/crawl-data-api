@@ -5,11 +5,10 @@ We are a professional data service provider, offering standard HTTP API services
 
 ## Contact Information
 
-You can obtain our API documentation and enjoy free testing through the following contact methods. Recharge credits have no expiration date and are valid until depleted.
+Feel free to contact us with any questions.
 
 [Contact](https://justoneapi.com/contact?source=github&detail=justoneapi/crawl-data-api)
 
-Feel free to contact us with any questions.
 
 ## Service Overv
 Below are the platform APIs we currently provide. This list may not always be up-to-date, so please contact us to get the latest real-time API documentation and view the most recent API list.
