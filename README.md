@@ -7,8 +7,7 @@ We are a professional data service provider, offering standard HTTP API services
 
 You can obtain our API documentation and enjoy free testing through the following contact methods. Recharge credits have no expiration date and are valid until depleted.
 
-- **Email**: support@justoneapi.com  
-- **Telegram**: [t.me/justoneapi](https://t.me/justoneapi)
+[Contact](https://justoneapi.com/contact)
 
 Feel free to contact us with any questions.
 
