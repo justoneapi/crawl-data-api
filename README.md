@@ -7,7 +7,7 @@ We are a professional data service provider, offering standard HTTP API services
 
 Feel free to contact us with any questions.
 
-[Contact](https://justoneapi.com/contact?source=github&detail=justoneapi/crawl-data-api)
+[Contact](https://justoneapi.com/contact)
 
 
 ## Service Overv
