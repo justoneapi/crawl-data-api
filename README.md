@@ -7,7 +7,7 @@ We are a professional data service provider, offering standard HTTP API services
 
 Feel free to contact us with any questions.
 
-[Contact](https://justoneapi.com/zh/contact)
+[Contact](https://justoneapi.com/en/contact)
 
 
 ## Service Overv
