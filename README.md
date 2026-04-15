@@ -1,5 +1,5 @@
 # justoneapi <img src="./logo_Symbol only.png" alt="Scrapyman Logo" width="40" height="40"/> —— Your Trusted Data Partner 
->[Official Website](https://justoneapi.com?source=github&detail=justoneapi/crawl-data-api)   |  [API Document](https://docs.justoneapi.com/en?source=github&detail=justoneapi/crawl-data-api) | [Python SDK](https://github.com/justoneapi/justoneapi-python)
+>[Official Website](https://justoneapi.com/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme)   |  [API Document](https://docs.justoneapi.com/?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme) | [Python SDK](https://github.com/justoneapi/justoneapi-python)
 
 We are a professional data service provider, offering standard HTTP API services and customized data solutions tailored to your needs.
 
@@ -7,7 +7,7 @@ We are a professional data service provider, offering standard HTTP API services
 
 Feel free to contact us with any questions.
 
-[Contact](https://justoneapi.com/en/contact)
+[Contact](https://justoneapi.com/en/contact?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme)
 
 
 ## Service Overv
