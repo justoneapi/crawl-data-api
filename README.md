@@ -33,6 +33,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 ### Taobao and Tmall
 
 - [Product Details (V1)](https://docs.justoneapi.com/en/api/taobao-and-tmall/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Product Details (V2)](https://docs.justoneapi.com/en/api/taobao-and-tmall/product-details-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Details (V4)](https://docs.justoneapi.com/en/api/taobao-and-tmall/product-details-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Details (V5)](https://docs.justoneapi.com/en/api/taobao-and-tmall/product-details-v5?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Details (V9)](https://docs.justoneapi.com/en/api/taobao-and-tmall/product-details-v9?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
@@ -101,6 +102,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 ### Douyin E-commerce
 
 - [Item Details (V1)](https://docs.justoneapi.com/en/api/douyin-e-commerce/item-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Item Comments (V1)](https://docs.justoneapi.com/en/api/douyin-e-commerce/item-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### Douyin Creator Marketplace (Xingtu)
 
