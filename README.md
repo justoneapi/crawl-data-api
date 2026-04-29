@@ -240,6 +240,8 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [User Published Posts (V1)](https://docs.justoneapi.com/en/api/instagram/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Reels Search (V1)](https://docs.justoneapi.com/en/api/instagram/reels-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Hashtag Posts Search (V1)](https://docs.justoneapi.com/en/api/instagram/hashtag-posts-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Post Comment List (V1)](https://docs.justoneapi.com/en/api/instagram/post-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Comment Reply List (V1)](https://docs.justoneapi.com/en/api/instagram/comment-reply-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### YouTube
 
