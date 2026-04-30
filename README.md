@@ -192,6 +192,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 ### JD.com
 
 - [Product Details (V1)](https://docs.justoneapi.com/en/api/jdcom/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Product Price (V1)](https://docs.justoneapi.com/en/api/jdcom/product-price-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Comments (V1)](https://docs.justoneapi.com/en/api/jdcom/product-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Shop Product List (V1)](https://docs.justoneapi.com/en/api/jdcom/shop-product-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
@@ -247,6 +248,8 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 - [Video Details (V1)](https://docs.justoneapi.com/en/api/youtube/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Channel Videos (V1)](https://docs.justoneapi.com/en/api/youtube/channel-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Video Comment List (V1)](https://docs.justoneapi.com/en/api/youtube/video-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Video Sub Comment List (V1)](https://docs.justoneapi.com/en/api/youtube/video-sub-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### Reddit
 
