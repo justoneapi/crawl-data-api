@@ -60,6 +60,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Comment Replies (V2)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/comment-replies-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Note Search (V2)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/note-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Note Search (V3)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/note-search-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Topic Note List (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/topic-note-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Search (V2)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/user-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Share Link Resolution (V3)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/share-link-resolution-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Keyword Suggestions (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/keyword-suggestions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
@@ -238,6 +239,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 - [Product Search (V1)](https://docs.justoneapi.com/en/api/tiktok-shop/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Details (V1)](https://docs.justoneapi.com/en/api/tiktok-shop/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Product Details (V2)](https://docs.justoneapi.com/en/api/tiktok-shop/product-details-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### YOUKU
 
