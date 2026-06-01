@@ -217,10 +217,10 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 ### WeChat Official Accounts
 
-- [User Published Posts (V1)](https://docs.justoneapi.com/en/api/wechat-official-accounts/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
-- [Article Engagement Metrics (V1)](https://docs.justoneapi.com/en/api/wechat-official-accounts/article-engagement-metrics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
-- [Article Comments (V1)](https://docs.justoneapi.com/en/api/wechat-official-accounts/article-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
-- [Keyword Search (V1)](https://docs.justoneapi.com/en/api/wechat-official-accounts/keyword-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Published Posts (V1) (Deprecated)](https://docs.justoneapi.com/en/api/wechat-official-accounts/user-published-posts-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
+- [Article Engagement Metrics (V1) (Deprecated)](https://docs.justoneapi.com/en/api/wechat-official-accounts/article-engagement-metrics-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
+- [Article Comments (V1) (Deprecated)](https://docs.justoneapi.com/en/api/wechat-official-accounts/article-comments-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
+- [Keyword Search (V1) (Deprecated)](https://docs.justoneapi.com/en/api/wechat-official-accounts/keyword-search-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
 - [Article Details (V1)](https://docs.justoneapi.com/en/api/wechat-official-accounts/article-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### Douban Movie
