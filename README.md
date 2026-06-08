@@ -315,6 +315,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 ### Amazon
 
+- [Product Search (V1)](https://docs.justoneapi.com/en/api/amazon/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Details (V1)](https://docs.justoneapi.com/en/api/amazon/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Top Reviews (V1)](https://docs.justoneapi.com/en/api/amazon/product-top-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Best Sellers (V1)](https://docs.justoneapi.com/en/api/amazon/best-sellers-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
