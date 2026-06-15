@@ -392,6 +392,6 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 ### LLM
 
-- [Doubao Answer (V1) (Deprecated)](https://docs.justoneapi.com/en/api/llm/doubao-answer-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
+- [Doubao Answer (V1)](https://docs.justoneapi.com/en/api/llm/doubao-answer-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 <!-- API_LIST_END -->
