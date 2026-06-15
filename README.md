@@ -251,6 +251,10 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [User Relation Stats (V1)](https://docs.justoneapi.com/en/api/bilibili/user-relation-stats-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Captions (V2)](https://docs.justoneapi.com/en/api/bilibili/video-captions-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
+### Dewu (Poizon)
+
+- [Product Search (V1)](https://docs.justoneapi.com/en/api/dewu-poizon/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+
 ### JD.com
 
 - [Product Details (V1)](https://docs.justoneapi.com/en/api/jdcom/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
