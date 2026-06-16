@@ -150,6 +150,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Author Commerce Spread Info (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/author-commerce-spread-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Author Side Base Info (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/author-side-base-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Author Commerce Seeding Base Info (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/author-commerce-seeding-base-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Author Contract Base Info](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/author-contract-base-info?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Creator Profile (V1) (Deprecated)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/creator-profile-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
 - [Audience Distribution (V1) (Deprecated)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/audience-distribution-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
 - [Follower Distribution (V1) (Deprecated)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/follower-distribution-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
@@ -263,6 +264,11 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Product Search (V1)](https://docs.justoneapi.com/en/api/jdcom/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Comments (V1)](https://docs.justoneapi.com/en/api/jdcom/product-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Shop Product List (V1)](https://docs.justoneapi.com/en/api/jdcom/shop-product-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+
+### Xianyu (GooFish)
+
+- [Product Search (V1)](https://docs.justoneapi.com/en/api/xianyu-goofish/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Product Details (V1)](https://docs.justoneapi.com/en/api/xianyu-goofish/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### 1688
 
