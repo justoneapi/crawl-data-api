@@ -318,8 +318,10 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 ### YouTube
 
+- [General Search (V1)](https://docs.justoneapi.com/en/api/youtube/general-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Details (V1)](https://docs.justoneapi.com/en/api/youtube/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Channel Videos (V1)](https://docs.justoneapi.com/en/api/youtube/channel-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Video Captions (V1)](https://docs.justoneapi.com/en/api/youtube/video-captions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Comment List (V1)](https://docs.justoneapi.com/en/api/youtube/video-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Sub Comment List (V1)](https://docs.justoneapi.com/en/api/youtube/video-sub-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
@@ -359,6 +361,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 ### Twitter
 
+- [Search Timeline (V1)](https://docs.justoneapi.com/en/api/twitter/search-timeline-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Profile (V1)](https://docs.justoneapi.com/en/api/twitter/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Published Posts (V1)](https://docs.justoneapi.com/en/api/twitter/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
