@@ -38,6 +38,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Product Details (V5)](https://docs.justoneapi.com/en/api/taobao-and-tmall/product-details-v5?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Details (V9)](https://docs.justoneapi.com/en/api/taobao-and-tmall/product-details-v9?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Reviews (V3)](https://docs.justoneapi.com/en/api/taobao-and-tmall/product-reviews-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Product Questions (V1)](https://docs.justoneapi.com/en/api/taobao-and-tmall/product-questions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Shop Product List (V1)](https://docs.justoneapi.com/en/api/taobao-and-tmall/shop-product-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Shop Product List (V2)](https://docs.justoneapi.com/en/api/taobao-and-tmall/shop-product-list-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Shop Product List (V3)](https://docs.justoneapi.com/en/api/taobao-and-tmall/shop-product-list-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
