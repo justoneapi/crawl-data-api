@@ -264,9 +264,11 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 - [Product Details (V1)](https://docs.justoneapi.com/en/api/jdcom/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Details (V2)](https://docs.justoneapi.com/en/api/jdcom/product-details-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Product Details (V3)](https://docs.justoneapi.com/en/api/jdcom/product-details-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Price (V1)](https://docs.justoneapi.com/en/api/jdcom/product-price-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Search (V1)](https://docs.justoneapi.com/en/api/jdcom/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Comments (V1)](https://docs.justoneapi.com/en/api/jdcom/product-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Product Comments (V2)](https://docs.justoneapi.com/en/api/jdcom/product-comments-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Shop Product List (V1)](https://docs.justoneapi.com/en/api/jdcom/shop-product-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### Xianyu (GooFish)
