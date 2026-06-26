@@ -352,6 +352,15 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Answer List (V1)](https://docs.justoneapi.com/en/api/zhihu/answer-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Keyword Search (V1)](https://docs.justoneapi.com/en/api/zhihu/keyword-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Column Article List (V1)](https://docs.justoneapi.com/en/api/zhihu/column-article-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Info (V1)](https://docs.justoneapi.com/en/api/zhihu/user-info-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Followees (V1)](https://docs.justoneapi.com/en/api/zhihu/user-followees-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Followers (V1)](https://docs.justoneapi.com/en/api/zhihu/user-followers-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Articles (V1)](https://docs.justoneapi.com/en/api/zhihu/user-articles-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Included Articles (V1)](https://docs.justoneapi.com/en/api/zhihu/user-included-articles-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Follow Columns (V1)](https://docs.justoneapi.com/en/api/zhihu/user-follow-columns-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Follow Questions (V1)](https://docs.justoneapi.com/en/api/zhihu/user-follow-questions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Follow Collections (V1)](https://docs.justoneapi.com/en/api/zhihu/user-follow-collections-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Follow Topics (V1)](https://docs.justoneapi.com/en/api/zhihu/user-follow-topics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### Amazon
 
