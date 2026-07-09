@@ -77,6 +77,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 ### Xiaohongshu Creator Marketplace (Pugongying)
 
+- [Creator Search (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Creator Profile (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/creator-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Data Summary (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/data-summary-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Follower Growth History (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/follower-growth-history-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
@@ -88,7 +89,6 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Follower Distribution (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/follower-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Cost Effectiveness Analysis (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/cost-effectiveness-analysis-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Note Details (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/note-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
-- [Creator Search (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Creator Core Metrics (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/creator-core-metrics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Content Square Notes (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/content-square-notes-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Creator Profile (V1) (Deprecated)](https://docs.justoneapi.com/en/api/xiaohongshu-creator-marketplace-pugongying/creator-profile-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
@@ -126,6 +126,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 ### Douyin Creator Marketplace (Xingtu)
 
+- [Creator Search (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Creator Profile (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/creator-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Creator Link Structure (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/creator-link-structure-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Creator Visibility Status (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/creator-visibility-status-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
@@ -143,7 +144,6 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Audience Touchpoint Distribution (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/audience-touchpoint-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Recommended Videos (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/recommended-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Follower Distribution (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/follower-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
-- [Creator Search (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/creator-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Creator Search Light (V1) (Deprecated)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/creator-search-light-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
 - [Item Report Trends (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/item-report-trends-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Details (V1)](https://docs.justoneapi.com/en/api/douyin-creator-marketplace-xingtu/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
