@@ -59,7 +59,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [User Profile (V3)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/user-profile-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Keyword Suggestions (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/keyword-suggestions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Topic Note List (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/topic-note-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
-- [Share Link Resolution (V3)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/share-link-resolution-v3?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Share Link Resolution (V1)](https://docs.justoneapi.com/en/api/xiaohongshu-rednote/share-link-resolution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### Xiaohongshu Creator Marketplace (Pugongying)
 
