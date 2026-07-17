@@ -139,6 +139,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 ### Kuaishou
 
+- [Video Search (V1)](https://docs.justoneapi.com/en/api/kuaishou/video-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Search (V2)](https://docs.justoneapi.com/en/api/kuaishou/video-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Search (V2)](https://docs.justoneapi.com/en/api/kuaishou/user-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Published Videos (V2)](https://docs.justoneapi.com/en/api/kuaishou/user-published-videos-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
