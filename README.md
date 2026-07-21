@@ -356,6 +356,15 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [User Published Posts (V1)](https://docs.justoneapi.com/en/api/twitter/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Post Comments (V1)](https://docs.justoneapi.com/en/api/twitter/post-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
+### LinkedIn
+
+- [People Search (V1)](https://docs.justoneapi.com/en/api/linkedin/people-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Profile (V1)](https://docs.justoneapi.com/en/api/linkedin/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Company Employees (V1)](https://docs.justoneapi.com/en/api/linkedin/company-employees-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Published Posts (V1)](https://docs.justoneapi.com/en/api/linkedin/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Post Reactions (V1)](https://docs.justoneapi.com/en/api/linkedin/post-reactions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Post Comments (V1)](https://docs.justoneapi.com/en/api/linkedin/post-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+
 ### Beike
 
 - [Resale Housing Details (V1) (Deprecated)](https://docs.justoneapi.com/en/api/beike/resale-housing-details-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
