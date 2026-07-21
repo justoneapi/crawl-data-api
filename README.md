@@ -331,6 +331,8 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [User Follow Questions (V1)](https://docs.justoneapi.com/en/api/zhihu/user-follow-questions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Follow Collections (V1)](https://docs.justoneapi.com/en/api/zhihu/user-follow-collections-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Follow Topics (V1)](https://docs.justoneapi.com/en/api/zhihu/user-follow-topics-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Answer Comments (V1)](https://docs.justoneapi.com/en/api/zhihu/answer-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Comment Replies (V1)](https://docs.justoneapi.com/en/api/zhihu/comment-replies-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### Amazon
 
@@ -345,6 +347,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Post Search (V1)](https://docs.justoneapi.com/en/api/facebook/post-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Get Profile ID (V1)](https://docs.justoneapi.com/en/api/facebook/get-profile-id-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Get Profile Posts (V1)](https://docs.justoneapi.com/en/api/facebook/get-profile-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Post Comments (V1)](https://docs.justoneapi.com/en/api/facebook/post-comments-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
 ### Twitter
 
