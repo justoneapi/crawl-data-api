@@ -287,6 +287,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 ### Instagram
 
 - [User Profile (V1)](https://docs.justoneapi.com/en/api/instagram/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [User Profile (V2)](https://docs.justoneapi.com/en/api/instagram/user-profile-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Post Details (V1)](https://docs.justoneapi.com/en/api/instagram/post-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Published Posts (V1)](https://docs.justoneapi.com/en/api/instagram/user-published-posts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Reels Search (V1)](https://docs.justoneapi.com/en/api/instagram/reels-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
