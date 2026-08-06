@@ -355,6 +355,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Video Details (V1)](https://docs.justoneapi.com/en/api/youtube/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Channel Videos (V1)](https://docs.justoneapi.com/en/api/youtube/channel-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Captions (V1)](https://docs.justoneapi.com/en/api/youtube/video-captions-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Channel Shorts (V1)](https://docs.justoneapi.com/en/api/youtube/channel-shorts-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Comment List (V1)](https://docs.justoneapi.com/en/api/youtube/video-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Sub Comment List (V1)](https://docs.justoneapi.com/en/api/youtube/video-sub-comment-list-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
