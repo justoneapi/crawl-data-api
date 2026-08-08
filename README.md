@@ -368,6 +368,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 ### Toutiao
 
 - [Article Details (V1)](https://docs.justoneapi.com/en/api/toutiao/article-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Video Details (V1)](https://docs.justoneapi.com/en/api/toutiao/video-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Profile (V1)](https://docs.justoneapi.com/en/api/toutiao/user-profile-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User ID (V1)](https://docs.justoneapi.com/en/api/toutiao/user-id-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [App Keyword Search (V1) (Deprecated)](https://docs.justoneapi.com/en/api/toutiao/app-keyword-search-v1-deprecated?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list#deprecated)
