@@ -326,8 +326,6 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Item Display Snapshot (V1)](https://docs.justoneapi.com/en/api/shopee/item-display-snapshot-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Shop Reviews (V1)](https://docs.justoneapi.com/en/api/shopee/shop-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Item Reviews (V1)](https://docs.justoneapi.com/en/api/shopee/item-reviews-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
-- [Search Prefills (V1)](https://docs.justoneapi.com/en/api/shopee/search-prefills-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
-- [Search Filter Configuration (V1)](https://docs.justoneapi.com/en/api/shopee/search-filter-configuration-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Shop Categories (V1)](https://docs.justoneapi.com/en/api/shopee/shop-categories-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Item Review Model Distribution (V1)](https://docs.justoneapi.com/en/api/shopee/item-review-model-distribution-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Item Review Tags (V1)](https://docs.justoneapi.com/en/api/shopee/item-review-tags-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
