@@ -116,6 +116,7 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 
 - [Video Search (V1)](https://docs.justoneapi.com/en/api/douyin-tiktok-china/video-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Video Search (V4)](https://docs.justoneapi.com/en/api/douyin-tiktok-china/video-search-v4?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Image Post Search (V1)](https://docs.justoneapi.com/en/api/douyin-tiktok-china/image-post-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Hot Search (V1)](https://docs.justoneapi.com/en/api/douyin-tiktok-china/hot-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Search (V2)](https://docs.justoneapi.com/en/api/douyin-tiktok-china/user-search-v2?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [User Published Videos (V1)](https://docs.justoneapi.com/en/api/douyin-tiktok-china/user-published-videos-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
