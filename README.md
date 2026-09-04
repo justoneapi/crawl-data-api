@@ -311,6 +311,11 @@ See the [online API documentation](https://docs.justoneapi.com/en/?utm_source=gi
 - [Product Details (V1)](https://docs.justoneapi.com/en/api/1688/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 - [Product Search (V1)](https://docs.justoneapi.com/en/api/1688/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
 
+### AliExpress
+
+- [Product Search (V1)](https://docs.justoneapi.com/en/api/aliexpress/product-search-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+- [Product Details (V1)](https://docs.justoneapi.com/en/api/aliexpress/product-details-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
+
 ### Temu
 
 - [Homepage Product Feed (V1)](https://docs.justoneapi.com/en/api/temu/homepage-product-feed-v1?utm_source=github.com&utm_medium=referral&utm_campaign=justoneapi_crawl_data_api&utm_content=repo_readme_api_list)
